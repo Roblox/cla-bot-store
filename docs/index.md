@@ -1,4 +1,4 @@
-![](/docs/roblox_logo_black.jpg)
+![](https://roblox.github.io/cla-bot-store/roblox_logo_black.jpg)
 
 # Roblox Contributor License Agreement
 
